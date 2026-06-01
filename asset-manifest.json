@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/happy-zoo/static/css/main.d4c38161.css",
+    "main.js": "/happy-zoo/static/js/main.383cef8d.js",
+    "static/media/zoo.jpg": "/happy-zoo/static/media/zoo.7e16e0b0502b7c384cb0.jpg",
+    "static/media/dolphin.jpg": "/happy-zoo/static/media/dolphin.42413f9d8e222db7fed1.jpg",
+    "static/media/bird1.jpg": "/happy-zoo/static/media/bird1.96f6e0f278f7a76125f7.jpg",
+    "static/media/tiger.jpg": "/happy-zoo/static/media/tiger.4167f5e04dd9dc552ddc.jpg",
+    "static/media/elephant.jpg": "/happy-zoo/static/media/elephant.0f29fd31ce4287a62379.jpg",
+    "index.html": "/happy-zoo/index.html",
+    "main.d4c38161.css.map": "/happy-zoo/static/css/main.d4c38161.css.map",
+    "main.383cef8d.js.map": "/happy-zoo/static/js/main.383cef8d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4c38161.css",
+    "static/js/main.383cef8d.js"
+  ]
+}
